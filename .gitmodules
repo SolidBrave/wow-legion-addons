@@ -22,3 +22,9 @@
 [submodule "ElvUI"]
 	path = ElvUI
 	url = https://github.com/SolidBrave/ElvUI
+[submodule "LittleWigs"]
+	path = LittleWigs
+	url = https://github.com/SolidBrave/LittleWigs
+[submodule "BigWigs"]
+	path = BigWigs
+	url = https://github.com/SolidBrave/BigWigs
