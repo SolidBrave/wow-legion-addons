@@ -31,3 +31,12 @@
 [submodule "DBM"]
 	path = DBM
 	url = https://github.com/SolidBrave/DBM
+[submodule "ItemRack"]
+	path = ItemRack
+	url = https://github.com/SolidBrave/ItemRack
+[submodule "Details"]
+	path = Details
+	url = https://github.com/SolidBrave/Details
+[submodule "ExRT"]
+	path = ExRT
+	url = https://github.com/SolidBrave/ExRT
