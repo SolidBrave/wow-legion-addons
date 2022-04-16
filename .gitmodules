@@ -28,3 +28,6 @@
 [submodule "BigWigs"]
 	path = BigWigs
 	url = https://github.com/SolidBrave/BigWigs
+[submodule "DBM"]
+	path = DBM
+	url = https://github.com/SolidBrave/DBM
