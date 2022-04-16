@@ -40,3 +40,6 @@
 [submodule "ExRT"]
 	path = ExRT
 	url = https://github.com/SolidBrave/ExRT
+[submodule "BtWQuests"]
+	path = BtWQuests
+	url = https://github.com/SolidBrave/BtWQuests
