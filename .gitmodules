@@ -19,3 +19,6 @@
 [submodule "MythicPlusRating"]
 	path = MythicPlusRating
 	url = https://github.com/SolidBrave/MythicPlusRating-uwow
+[submodule "ElvUI"]
+	path = ElvUI
+	url = https://github.com/SolidBrave/ElvUI
