@@ -1,3 +1,21 @@
 [submodule "weakaura-2.16.3"]
 	path = weakaura-2.16.3
 	url = https://github.com/SolidBrave/weakaura-2.16.3-legion-port
+[submodule "weakaura-2.5.12"]
+	path = weakaura-2.5.12
+	url = https://github.com/SolidBrave/weakaura-2.5.12
+[submodule "Simulationcraft"]
+	path = Simulationcraft
+	url = https://github.com/SolidBrave/Simulationcraft
+[submodule "TargettedAoeHelper"]
+	path = TargettedAoeHelper
+	url = https://github.com/SolidBrave/TargettedAoeHelper
+[submodule "QuestCompletist"]
+	path = QuestCompletist
+	url = https://github.com/SolidBrave/QuestCompletist
+[submodule "MythicPlusTimer"]
+	path = MythicPlusTimer
+	url = https://github.com/SolidBrave/MythicPlusTimer
+[submodule "MythicPlusRating"]
+	path = MythicPlusRating
+	url = https://github.com/SolidBrave/MythicPlusRating-uwow
