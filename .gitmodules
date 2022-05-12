@@ -43,3 +43,6 @@
 [submodule "BtWQuests"]
 	path = BtWQuests
 	url = https://github.com/SolidBrave/BtWQuests
+[submodule "AngryKeystones"]
+	path = AngryKeystones
+	url = https://github.com/SolidBrave/AngryKeystones
